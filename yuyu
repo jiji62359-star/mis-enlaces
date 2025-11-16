@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mis Enlaces</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #f4f4f4;
+            text-align: center;
+            padding: 40px;
+        }
+        .btn {
+            background: #4CAF50;
+            color: white;
+            padding: 12px;
+            text-decoration: none;
+            display: block;
+            width: 200px;
+            margin: 15px auto;
+            border-radius: 6px;
+            font-size: 18px;
+        }
+        .btn:hover {
+            background: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mis Enlaces Favoritos</h1>
+
+    <a class="btn" href="https://www.youtube.com" target="_blank">YouTube</a>
+    <a class="btn" href="https://www.spotify.com" target="_blank">Spotify</a>
+    <a class="btn" href="https://www.facebook.com" target="_blank">Facebook</a>
+    <a class="btn" href="https://www.instagram.com" target="_blank">Instagram</a>
+
+</body>
+</html>
